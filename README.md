@@ -48,12 +48,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🚀 Live Demo <a name="live-demo"></a>
-[coming soon]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps. It's a simple project.
@@ -65,11 +59,14 @@ In order to run this project you need:
 
 ### Install
 
-- N/A
+- cd [my-folder]
+-git clone (git@github.com:derrick1451/The-Awesomebook.git)
+-cd [repo-name]
+-code .
 
 ### Usage
 
-- N/A
+- install live server extension on vs code
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -77,9 +74,9 @@ In order to run this project you need:
 
 👤 **Okongo Derrick**
     
-- GitHub: [@firstpj](https://github.com/derrick14/51)
-- Twitter: [@AkordaC](https://twitter.com/derrick1451)
-- LinkedIn: [Collins Akorda](https://www.linkedin.com/in/okongo-derrick)
+- GitHub: [@derrick14](https://github.com/derrick14/51)
+- Twitter: [@derrick14](https://twitter.com/derrick1451)
+- LinkedIn: [okongo derrick](https://www.linkedin.com/in/okongo-derrick)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
